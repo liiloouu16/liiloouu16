@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 💻 Étudiante en BUT Informatique (Dév Web)
+- 🚀 Alternante Dev Logiciel à l’Imprimerie Mordacq
 <!--
 **liiloouu16/liiloouu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
