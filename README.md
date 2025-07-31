@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💻 Étudiante en BUT Informatique 3ème année
+- 💻 Étudiante en BUT Informatique - 3ᵉ année
 - 🚀 Alternante Développeuse à l’Imprimerie Mordacq
 
 <!--
