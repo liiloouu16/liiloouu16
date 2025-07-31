@@ -2,7 +2,9 @@
 
 - 💻 Étudiante en BUT Informatique - 3ᵉ année
 - 🚀 Alternante Développeuse à l’Imprimerie Mordacq
-
+  
+---
+[Mon Portfolio](https://ecv.jrcan.dev/lilouchatelain)
 <!--
 **liiloouu16/liiloouu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
