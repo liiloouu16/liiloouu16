@@ -42,24 +42,27 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-5C6BC0?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-7E57C2?style=flat-square&logo=java&logoColor=white" />
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-42A5F5?style=flat-square&logo=trello&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-5C6BC0?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-3068dd?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
-<h3>My latest posts</h3>
-<ul>
-  <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
-  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
-</ul>
+<h3>🚨 RECHERCHE ALTERNANCE DÉVELOPPEUSE 🚨</h3>
+<p>
+  
+  Motivée, polyvalente et prête à apprendre, je suis à la recherche d'une alternance en développement.<br/><br/>
+  
+  <b>Informations :</b><br/>
+  🗓 <b>Quand ?</b> À partir de septembre 2026<br/>
+  🕰 <b>Durée ?</b> 2/3ans<br/>
+  📍 <b>Où ?</b> Hauts-de-France<br/>
+  💻 <b>Domaines ?</b> Développement <br/><br/>
+  
+  Hyper motivée, je suis prête à apprendre et m'investir dans une entreprise qui souhaite m'accueillir ! 🚀<br/><br/>
+  
+  📧 <b>Me contacter :</b> <a href="mailto:lilou.chatelain@gmail.com">lilou.chatelain@gmail.com</a><br/>
+  ✨ <b>En savoir plus avec :</b> <a href="https://portfolio-lilou-chatelain.vercel.app/">mon portfolio</a><br/>
+  
+</p>
 
 <h3>🌐 Où me trouver </h3>
 <p><a href="https://github.com/liiloouu16" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/lilou-chatelain" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-------------
-
-🚀
-
