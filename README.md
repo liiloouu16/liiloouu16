@@ -16,7 +16,7 @@
 -->
 <h1> Hi there 👋</h1
 
-<p>Bienvenue sur ma page ! </br> Je suis Lilou, une étudiante en informatique venant de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Calais, France, et en alternance chez l'Imprimerie Mordacq pour ma deuxième année <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/af7797cf-c202-4e41-b424-d092bc44a617" /> !</p>
+<p>Bienvenue sur ma page! </br> Je suis Lilou, étudiante en informatique venant de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b> France</b>, et en alternance chez l'Imprimerie Mordacq pour ma deuxième année !</p>
 <h3>Tech Stack</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
