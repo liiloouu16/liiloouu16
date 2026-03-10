@@ -5,12 +5,6 @@
   
 <!--
 ---
-[Mon Portfolio](https://ecv.jrcan.dev/lilouchatelain)
-
-**liiloouu16/liiloouu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,20 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1> Hi there 👋</h1
 
-## Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
-<p>Welcome to my page! </br> I'm Lilou, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Calais, France.</p>
-<h3>Things I code with</h3>
+<p>Bienvenue sur ma page ! </br> Je suis Lilou, une étudiante en informatique venant de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Calais, France, et en alternance chez l'Imprimerie Mordacq pour ma deuxième année <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/af7797cf-c202-4e41-b424-d092bc44a617" /> !</p>
+<h3>Tech Stack</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
