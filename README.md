@@ -1,5 +1,5 @@
 <h1> Hi there 👋</h1>
-<p>Bienvenue sur ma page !  </br> Je suis Lilou, étudiante en informatique venant de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b> France</b>, et en alternance chez l'Imprimerie Mordacq pour ma deuxième année ! </p>
+<p>Bienvenue sur ma page !  </br> Je suis Lilou, étudiante en informatique venant de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b> France</b>, et en alternance chez l'Imprimerie Mordacq ! </p>
 <hr>
 <p>
   🚨Motivée, polyvalente et prête à apprendre, je suis à la <b>recherche d'une alternance en développement.</b>🚨</p>
