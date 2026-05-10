@@ -6,7 +6,7 @@
   
   <b>Informations :</b><br/>
   🗓 <b>Quand ?</b> À partir de septembre 2026<br/>
-  🕰 <b>Durée ?</b> 2/3ans<br/>
+  🕰 <b>Durée ?</b> 3ans<br/>
   📍 <b>Où ?</b> Hauts-de-France<br/><br/>
 </p>
 
