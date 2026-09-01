@@ -1,6 +1,6 @@
 <h1> Hi there 👋</h1>
 <p>Bienvenue sur ma page !  </br> Je suis Lilou, étudiante en informatique venant de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b> France</b>, et en alternance chez l'Imprimerie Mordacq ! </p>
-<hr>
+<!--<hr>
 <p>
   🚨Motivée, polyvalente et prête à apprendre, je suis à la <b>recherche d'une alternance en développement.</b>🚨</p>
   
@@ -8,7 +8,7 @@
   🗓 <b>Quand ?</b> À partir de septembre 2026<br/>
   🕰 <b>Durée ?</b> 3ans<br/>
   📍 <b>Où ?</b> Hauts-de-France<br/><br/>
-</p>
+</p>--!>
 
 <hr>
 <h3>💻 Tech Stack</h3>
