@@ -9,8 +9,6 @@
   🕰 <b>Durée ?</b> 3ans<br/>
   📍 <b>Où ?</b> Hauts-de-France<br/><br/>
 </p>--!>
-
-<hr>
 <h3>💻 Tech Stack</h3>
 
 <p>
