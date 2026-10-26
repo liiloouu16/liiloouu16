@@ -1,6 +1,6 @@
 <h1> Hi there 👋</h1>
-<p>Bienvenue sur ma page !  </br> Je suis Lilou, étudiante en informatique venant de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b> France</b>, et en alternance chez l'Imprimerie Mordacq ! </p>
-<!--<hr>
+<!--<p>Bienvenue sur ma page !  </br> Je suis Lilou, étudiante en informatique venant de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b> France</b>, et en alternance chez l'Imprimerie Mordacq ! </p>
+<hr>
 <p>
   🚨Motivée, polyvalente et prête à apprendre, je suis à la <b>recherche d'une alternance en développement.</b>🚨</p>
   
@@ -48,5 +48,5 @@
 <p><a href="https://github.com/liiloouu16" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/lilou-chatelain" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-  📧 <b>Me contacter :</b> <a href="mailto:lilou.chatelain@gmail.com">lilou.chatelain@gmail.com</a><br/>
-  ✨ <b>En savoir plus avec :</b> <a href="https://portfolio-lilou-chatelain.vercel.app/">mon portfolio</a><br/>
+  <!--📧 <b>Me contacter :</b> <a href="mailto:lilou.chatelain@gmail.com">lilou.chatelain@gmail.com</a><br/>
+  ✨ <b>En savoir plus avec :</b> <a href="https://portfolio-lilou-chatelain.vercel.app/">mon portfolio</a><br/>--!>
